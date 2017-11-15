@@ -8,3 +8,5 @@ Beğendiyseniz bir yıldızınıza talibiz :)  (hazırlamamız 20 küsür saat s
 - İlçe 970
 - Mahalle 49.649 
 - Sokak / Cadde 571.430
+
+Not: sql dosyasını siz farklı bir formatta hazırlayıp kullandıysanız bizimle paylaşırsanız başkalarınında kullanımına sunabiliriz.
