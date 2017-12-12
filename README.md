@@ -13,3 +13,6 @@ Not: sql dosyasını siz farklı bir formatta hazırlayıp kullandıysanız bizi
 
 ### Extra Katkıda Bulunanlar
 - [@isubas/iller_ve_ilceler/ - İl , İlçe ( CSV,JSON,YML ) ](https://github.com/isubas/iller_ve_ilceler/)
+
+#### Alakalı Linkler
+- [Türkiye Mülki İdare Bölümleri Envanteri ](https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx)
