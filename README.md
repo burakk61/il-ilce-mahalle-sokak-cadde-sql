@@ -25,4 +25,4 @@ xml formatı tek dosya ve tablolar halinde eklendi
 json formatı tek dosya ve tablolar halinde eklendi
 
 ## Güncelleme 01.07.2018
-Latitude Longitude Bilgilerinin Eklenmedi (Plan)
+Latitude Longitude Bilgilerinin Eklenmesi (Plan)
