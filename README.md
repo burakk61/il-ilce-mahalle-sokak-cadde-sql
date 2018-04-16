@@ -26,3 +26,6 @@ json formatı tek dosya ve tablolar halinde eklendi
 
 ## Güncelleme 01.07.2018
 Latitude Longitude Bilgilerinin Eklenmesi (Plan)
+
+## Güncelleme 01.08.2018
+Posta Kodlarının Eklenmesi (Plan)
