@@ -12,7 +12,7 @@ Not: sql dosyasını siz farklı bir formatta hazırlayıp kullandıysanız bizi
 
 ### Extra Katkıda Bulunanlar
 - [@isubas/iller_ve_ilceler/ - İl , İlçe ( CSV,JSON,YML ) ](https://github.com/isubas/iller_ve_ilceler/)
-- [@VinceG/Bootstrap-Admin-Theme/ - Admin Theme ](https://github.com/VinceG/Bootstrap-Admin-Theme)
+- [@ColorlibHQ/CoolAdmin/ - Admin Theme ](https://github.com/ColorlibHQ/CoolAdmin)
 
 
 #### Alakalı Linkler
