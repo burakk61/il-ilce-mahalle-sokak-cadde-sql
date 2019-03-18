@@ -14,7 +14,6 @@ SQL şeklinde olan dosyamızı import ederek kullanabilirsiniz. Sokak/Cadde bilg
 
 ### Extra Katkıda Bulunanlar
 - [@isubas/iller_ve_ilceler/ - İl , İlçe ( CSV,JSON,YML ) ](https://github.com/isubas/iller_ve_ilceler/)
-- [@ColorlibHQ/CoolAdmin/ - Admin Theme ](https://github.com/ColorlibHQ/CoolAdmin)
 
 
 #### Alakalı Linkler
